@@ -1,1 +1,1 @@
-예외 처리 테스트
+python with try~except
